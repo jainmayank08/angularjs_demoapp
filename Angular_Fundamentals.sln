@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DemoApp", "http://localhost:60873", "{A1FB03FF-2642-4A72-B739-4D4FAB5B289C}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DemoApp(1)", "http://localhost:49697", "{00149234-BF63-4946-B062-4D472FF6DA06}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_60873"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Mayank\Angular_Fundamental\AngularFundamentalsFiles-master\AngularFundamentalsFiles-master\DemoApp\DemoApp\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60873\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49697"
+		Debug.AspNetCompiler.PhysicalPath = "DemoApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49697\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_60873"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Mayank\Angular_Fundamental\AngularFundamentalsFiles-master\AngularFundamentalsFiles-master\DemoApp\DemoApp\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60873\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49697"
+		Release.AspNetCompiler.PhysicalPath = "DemoApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49697\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\..\..\..\..\Mayank\Angular_Fundamental\AngularFundamentalsFiles-master\AngularFundamentalsFiles-master\DemoApp\DemoApp\"
+		SlnRelativePath = "DemoApp\"
 	EndProjectSection
 EndProject
 Global
@@ -29,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1FB03FF-2642-4A72-B739-4D4FAB5B289C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1FB03FF-2642-4A72-B739-4D4FAB5B289C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00149234-BF63-4946-B062-4D472FF6DA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00149234-BF63-4946-B062-4D472FF6DA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
